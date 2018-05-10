@@ -1,9 +1,27 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    width: 100%;
-    max-width: 960px;
-}
+     #Title{
+     	height: 100px;
+     	width: 400px;
+     	margin:20px auto;
+     	border: 5px solid #cdf;
+     }
+     .t{
+     	font-size: 30px;
+     	float: left;
+     	width: 100px;
+     	height: 100px;
+     	overflow: hidden;
+     	margin:0 auto;
+     	background-color: yellow;
+     }
+     .canshu{
+     	height: 300px;
+     	width: 50px;
+     	font-size: 30px;
+     }
+     #choice{
+     	margin: 60px auto;
+        padding-bottom: 40px;
+     }
+     .A{
+	display: block;
+     }
